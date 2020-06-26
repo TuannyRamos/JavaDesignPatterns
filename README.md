@@ -7,3 +7,4 @@ Mais importante que entender cada implementação é entender a motivação de d
 
 * [Strategy](https://github.com/TuannyRamos/JavaDesignPatterns/tree/master/Strategy)
 * [Chain of Responsibility](https://github.com/TuannyRamos/JavaDesignPatterns/tree/master/ChainOfResponsibility)
+* [Template Method](https://github.com/TuannyRamos/JavaDesignPatterns/tree/master/TemplateMethod)
