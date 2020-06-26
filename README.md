@@ -1,2 +1,2 @@
 # JavaDesignPatterns
-Learning design patterns in java
+Aprendizado de Design Patterns em linguagem Java.
