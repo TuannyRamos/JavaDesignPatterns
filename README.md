@@ -5,4 +5,4 @@ Um padrão de projeto é uma solução elegante para um problema que é muito re
 
 Mais importante que entender cada implementação é entender a motivação de determinado padrão e em quais casos ele faz sentido e deve ser aplicado.
 
-A seguir
+[go](https://github.com/TuannyRamos/JavaDesignPatterns/tree/master/Strategy){:target="_blank" rel="noopener"}
